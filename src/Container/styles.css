@@ -1,0 +1,13 @@
+.container {
+    width: 50%;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.players {
+    padding: 10px;
+    border: 1px solid black;
+}

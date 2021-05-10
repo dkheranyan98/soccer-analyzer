@@ -1,0 +1,3 @@
+export const GET_LEAGUES = 'GET_LEAGUES';
+export const TOGGLE_LEAGUES = 'TOGGLE_LEAGUES';
+export const SET_PLAYERS = 'SET_PLAYERS';
